@@ -15,3 +15,5 @@
    resource "aws_s3_bucket" "demo" {
      bucket = "khalid-my-project-20260921"
    }
+
+   Hello this is the new code for versioning 
